@@ -1,0 +1,15 @@
+{
+  "name": "Lello's Repo",
+  "identifier": "com.lello.repo",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Lello",
+      "version": "9.1.28",
+      "versionDate": "2026-03-13",
+      "downloadURL": "https://github.com/l3m4r94/publicRepo/releases/download/1.0.0/Spotify.9.1.28.ipa",
+      "localizedDescription": "Descrizione dell'app che hai caricato.",
+    }
+  ]
+}
